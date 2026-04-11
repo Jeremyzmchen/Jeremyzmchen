@@ -1,21 +1,8 @@
-![](https://zhaomingchen.com/github-banner.svg)
 
-  Backend engineer with a background in architecture — I design systems the way architects design buildings: with
-  structure, intent, and people in mind.
+  Hi there 👋
 
-  Currently pursuing my Master's in Computer Science at Northeastern University. Open to SDE internship opportunities.
+  I'm Jeremy Chen — a backend engineer building distributed systems and AI-powered applications.
 
-  ## What I build
+  🌐 [zhaomingchen.com](https://zhaomingchen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/zhaoming-c-665474386/)
 
-  - **Distributed backend systems** — Spring Boot, Kafka, Redis, Elasticsearch
-  - **AI-powered applications** — RAG pipelines, multi-tenant knowledge bases, agentic workflows
-  - **Full-stack products** — Next.js, FastAPI, React
-
-  ## Stack
-
-  Java · Python · TypeScript · Spring Boot · Kafka · Redis · Elasticsearch · Docker · AWS
-
-  ## Links
-
-  - 🌐 [zhaomingchen.com](https://zhaomingchen.com)
-  - 💼 [LinkedIn](https://www.linkedin.com/in/zhaoming-c-665474386/)
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
